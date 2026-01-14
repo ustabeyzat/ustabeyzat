@@ -29,7 +29,7 @@ Status    : notHere
 </td>
 <td width="50%" style="background:#111;color:#ffff00;padding:20px;vertical-align:top;">
 
-<img src="https://avatars.githubusercontent.com/u/103913137?v=4" width="100%"/>
+<img src="https://pbs.twimg.com/media/GLuEdKRWgAIsfFa?format=jpg&name=4096x4096" width="100%"/>
 
 </td>
 </tr>
